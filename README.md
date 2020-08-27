@@ -16,9 +16,7 @@ Hi, I'm Mustafa Ibrahim, a passionate self-taught flutter developer from Egypt.
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
-**Languages and Tools:**  
+### Languages and Tools:
 
 <code><img height="20" src="https://logo.clearbit.com/flutter.dev"></code>
 <code><img height="20" src="https://logo.clearbit.com/dart.dev"></code>
